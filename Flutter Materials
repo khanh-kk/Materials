@@ -1,0 +1,21 @@
+//Material:
+1. https://bestflutterpack.com/3d-bottom-navigation-bar-in-flutter/
+2. https://fxstudio.dev/minh-da-tu-hoc-flutter-nhu-the-nao/
+3. https://200lab.io/blog/tag/flutter/page/2/
+4. https://fluttergems.dev/bottom-navigation-bar/
+
+
+
+
+
+//////
+
+//issue of installing
+
+1. install flutter:  ( need ruby >= 2.5)
+2. https://ganzhixiong.com/p/5cfaa141/
+3. Bonus: Dart Fix
+Có bao giờ bạn quay trở lại dự án Flutter mà bạn đã không động đến trong một đến hai năm và nhận thấy một loạt các cảnh báo không được dùng nữa không? ( FlatButtonvà RaisedButton!)
+Đừng lo lắng, vì bạn không cần phải sửa tất cả chúng bằng thủ công. Thay vào đó, tất cả những gì bạn phải làm là chạy dart fix:
+dart fix --dry-run # preview of the proposed changes
+dart fix --apply # apply the changes
